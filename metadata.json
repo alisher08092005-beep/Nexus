@@ -1,0 +1,7 @@
+{
+  "name": "Nexus AI | Digital Command Center",
+  "description": "A hyper-interactive digital marketing powerhouse featuring real-time voice AI and holographic strategy generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
